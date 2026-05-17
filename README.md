@@ -159,3 +159,36 @@ Future improvements may include:
 * Seaborn  
 * Matplotlib  
 * Scikit-learn  
+
+---
+
+## How to Run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Busrataseven/DSA210-Project.git
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the notebooks in this order:
+
+- `AI_&_Data_Science_Job_Market_Analysis_Factors_Affecting_Salaries.ipynb` (EDA & Hypothesis Testing)
+- `ML_Analysis.ipynb` (Machine Learning)
+
+---
+
+## AI Usage Disclosure
+
+AI tools (ChatGPT and Claude) were used to support:
+- debugging Python code,
+- improving report structure,
+- refining written interpretations,
+- and improving documentation clarity.
+
+All analyses, model implementations, results, and interpretations were manually reviewed and validated.
