@@ -178,7 +178,7 @@ pip install -r requirements.txt
 
 3. Run the notebooks in this order:
 
-- `AI_&_Data_Science_Job_Market_Analysis_Factors_Affecting_Salaries.ipynb` (EDA & Hypothesis Testing)
+- `AI_&_Data_Science_Job_Market_Analysis_Factors_Affecting_Salaries_Final.ipynb` (EDA & Hypothesis Testing)
 - `ML_Analysis.ipynb` (Machine Learning)
 
 ---
